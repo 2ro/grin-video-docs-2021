@@ -10,4 +10,4 @@ With privacy at its foundation, GRIN promised peer-to-peer electronic cash: amou
 
 Grin holds value because [reason]  -- its core principles are being Open, Private, Scalable, Simple and Proven. There's no company or foundation behind it, and no ICO, founder reward, pre-mine or dev-tax. The coin distribution is designed to be as fair (but not gratis) as is known to be possible.
 
-In a world with increasing surveillance, thought policing and financial turbulence, GRIN aims to be [a bastion of monetary privacy](rewrite) not to be centrally controlled by any one business or government.
+In a world with increasing surveillance, thought policing and financial turbulence, GRIN aims to be [a bastion of monetary privacy] (rewrite) not to be centrally controlled by any one business or government.
